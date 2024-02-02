@@ -1,6 +1,7 @@
 <h3>Udemy and Coursera Certifications</h3>
 
 This repository serves as a public archive of my professional certifications from Udemy and Coursera. It reflects my commitment to developing expertise in **data science, machine learning, big data, and deep learning using Python and related frameworks**. The certificates herein validate my proficiency and dedication to continuous learning in these rapidly evolving fields.
+
 **- Python Bootcamp Certification :**** This certificate is proof of my comprehensive understanding of Python programming, from the basics to advanced concepts.
 
 **- Python for Data Science and Machine Learning :** A testament to my ability to use Python for complex data analysis, machine learning models, and data visualization.
