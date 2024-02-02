@@ -18,9 +18,18 @@ This repository serves as a public archive of my professional certifications fro
 Throughout my learning journey, I have gained expertise in a variety of tools and methodologies critical to modern data science and engineering:
 
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn.
+
 **Data Engineering & Transformation:** ELT & ETL, Data Warehouse, Data Lake, Databricks.
+
 **Frameworks:** Pytorch, Optuna. 
+
 **Languages:** Python, SQL, Front-End Web Development Languages.
+
 **Deployment Tools & Platforms:** Microsoft Azure, Azure Dockers, Azure Kubernetes Services.
+
 **Model Interpretability & Visualization:** Tensorboard, Power BI, Tableau. 
+
+<h3>Contact</h3>
+
+If you have any questions about my certifications or wish to discuss potential collaborations or opportunities, please feel free to reach out.
 
